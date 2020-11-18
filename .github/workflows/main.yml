@@ -33,7 +33,7 @@ jobs:
           echo test, and deploy your project.
           ls -a
           echo is java installed?
-          java --version
+          java -version
           echo 
           echo is Git installed?
           git --version
